@@ -184,8 +184,6 @@ ul.todo li .buttons button.complete svg {
   border-radius: 11px;
   /* border: 1.5px solid #25b99a; */
   border: 1.5px solid #e85656;
-
-
   transition: background 0.2s ease;
 }
 
