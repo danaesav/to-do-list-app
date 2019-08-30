@@ -194,7 +194,7 @@ ul.todo#completed li .buttons button.complete svg {
 }
 
 ul.todo:not(#completed) li .buttons button.complete:hover svg {
-  background: rgba(37, 185, 154, 0.75);
+  background: #e85656;
 }
 
 ul.todo:not(#completed) li .buttons button.complete:hover svg .fill {
